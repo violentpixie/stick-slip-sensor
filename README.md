@@ -1,5 +1,5 @@
 # Table of contents
-[1. Setup](https://github.com/violentpixie/stick-slip-sensor#setup)
+1. [Setup](https://github.com/violentpixie/stick-slip-sensor#setup)
         - [UR10](https://github.com/violentpixie/stick-slip-sensor#ur10)
         - [Schunk gripper](https://github.com/violentpixie/stick-slip-sensor#schunk-gripper)
         - [Wittenstein](https://github.com/violentpixie/stick-slip-sensor#wittenstein)
