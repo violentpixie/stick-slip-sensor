@@ -1,0 +1,8 @@
+prefix=/home/rass/Rassul/sensor_ws/devel
+
+Name: schunk_ezn64
+Description: Description of schunk_ezn64
+Version: 1.3.7
+Cflags: -I/home/rass/Rassul/sensor_ws/devel/include -I/home/rass/Rassul/sensor_ws/src/schunk_ezn64/include
+Libs: -L${prefix}/lib 
+Requires: roscpp tf std_msgs

@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rustam/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/rustam/catkin_ws/src/aruco_ros/aruco/include/**",
+                "/home/rustam/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+                "/home/rustam/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/rustam/catkin_ws/src/wittenstein/include/**",
+                "/usr/include/**",
+                "/opt/ros/melodic/include"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

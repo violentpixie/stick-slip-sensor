@@ -1,0 +1,8 @@
+prefix=/home/tactile/Rassul/wittenstein_ws/devel
+
+Name: wittenstein
+Description: Description of wittenstein
+Version: 0.0.0
+Cflags: -I/home/tactile/Rassul/wittenstein_ws/src/wittenstein/include
+Libs: -L${prefix}/lib -lwittenstein
+Requires: roscpp std_msgs wittenstein_msgs

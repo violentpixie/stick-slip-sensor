@@ -1,0 +1,8 @@
+prefix=/home/rass/Rassul/sensor_ws/devel
+
+Name: wittenstein
+Description: Description of wittenstein
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lwittenstein
+Requires: roscpp std_msgs wittenstein_msgs

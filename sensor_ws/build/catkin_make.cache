@@ -1,0 +1,2 @@
+ourSensor_msgs:schunk_ezn64:sensor:wittenstein:wittenstein_msgs
+-DCATKIN_DEVEL_PREFIX=/home/rass/Rassul/sensor_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rass/Rassul/sensor_ws/install -G Unix Makefiles

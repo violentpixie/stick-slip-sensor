@@ -1,0 +1,2 @@
+wittenstein:wittenstein_msgs
+-DCATKIN_DEVEL_PREFIX=/home/tactile/Rassul/wittenstein_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tactile/Rassul/wittenstein_ws/install -G Unix Makefiles

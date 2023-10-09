@@ -1,0 +1,8 @@
+prefix=/home/tactile/Rassul/sensor_ws/devel
+
+Name: active_glove
+Description: Description of active_glove
+Version: 0.0.0
+Cflags: -I/home/tactile/Rassul/sensor_ws/src/active_glove/include
+Libs: -L${prefix}/lib -lactive_glove
+Requires: roscpp std_msgs wittenstein_msgs
