@@ -9,6 +9,9 @@
    -
 
 # Setup 
+
+[![Experiment Video]({blob:https://web.telegram.org/01bbbb23-cb6a-4080-9ddd-02ae20be2996})]({(https://drive.google.com/file/d/1T8M64VDNHlcA0m4zIxcgBmD_AaferUZm/view?usp=drive_link)} "Link Title")
+
 ## UR10
 * Requirements:   
 	* Python 2.7
