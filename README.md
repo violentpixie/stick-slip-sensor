@@ -10,7 +10,7 @@
 
 # Setup 
 
-[![Experiment Video]({file:///home/molly/Downloads/intro_slip_sensor.jpg})]({https://drive.google.com/file/d/1T8M64VDNHlcA0m4zIxcgBmD_AaferUZm/view?usp=drive_link} "Link Title")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFFm7aU3KGc/0.jpg)](https://www.youtube.com/watch?v=ZFFm7aU3KGc)
 
 ## UR10
 * Requirements:   
