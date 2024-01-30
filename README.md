@@ -9,6 +9,9 @@
    -
 
 # Setup 
+
+[![Experiment Video]({file:///home/molly/Downloads/intro_slip_sensor.jpg})]({https://drive.google.com/file/d/1T8M64VDNHlcA0m4zIxcgBmD_AaferUZm/view?usp=drive_link} "Link Title")
+
 ## UR10
 * Requirements:   
 	* Python 2.7
